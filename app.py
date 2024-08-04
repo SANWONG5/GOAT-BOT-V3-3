@@ -2,7 +2,7 @@ from flask import flask
 app = flask (__name__)
 
 @approute('/') 
-def _hello_world()!
+def _hello_world():
 return 'GreyMatters' 
 
 
