@@ -1,1 +1,1 @@
- python3 bot.py
+gunicom app:app & python3 bot.py
